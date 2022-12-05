@@ -1,1 +1,2 @@
 # Compress and Expand
+8 Bit Unsigned ASCII Chars only use the first 7 bits of a byte. This program was created to condense the file by 1/8 by removing the 8th unused bit (2^7). This program will append. z827 to the file extension upon completion and removing the original file. This program then can take a file argument ending in .z827 and decompress, making room for the 8th unused bit. Upon decompression the .z827 extension will be removed.
