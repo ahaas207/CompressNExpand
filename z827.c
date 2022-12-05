@@ -1,7 +1,5 @@
 /*  Name: Aimee Haas
-    Program 2
     2-2022
-    Program Name: z827
     Purpose:  Compress 8 bit ASCII into 7. 
     Decompress back to 8 bit representation. 
     */
